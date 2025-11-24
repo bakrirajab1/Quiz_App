@@ -1,2 +1,2 @@
 # Quiz_App
-This repository hosts a dynamic and engaging quiz application, built using [mention key technologies, e.g., HTML, CSS, JavaScript, React, Flutter, Java]. The application allows users to test their knowledge across various categories through multiple-choice questions.
+This repository hosts a dynamic and engaging quiz application, built using [mention key technologies, e.g., HTML, CSS, JavaScript, React, Flutter, Java]. The application allows users to test their knowledge across various categories through multiple-choice questions. Key features include a user-friendly interface, real-time score tracking, immediate feedback on answers, and a final results summary.
